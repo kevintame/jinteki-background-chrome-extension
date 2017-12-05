@@ -2,6 +2,8 @@
 /*Background image inject*/
 .lobby-bg { 
 	background-image: url("https://s3.amazonaws.com/thehacktivist.kevintame.com/img/JnetBackground.png")!important;
+
+	/*jinteki.net had a default opacity on the background image so I removed that to make the image pop*/
 	opacity: 1.0 !important;
 }
 
