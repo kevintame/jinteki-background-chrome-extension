@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Jnet Background Script",
+  "version": "0.1.0",
+  "description": "Add Background on Monochrome BG",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "matches": ["https://www.jinteki.net/play"]
+  }]
+
+}
+
