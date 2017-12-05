@@ -1,6 +1,6 @@
-# Jinteki.net extention for changing the background image and increasing the font.
+# Jinteki.net Chrome Extention
 
-This is a simple inject of css that you can add to your extensions in chrome
+This is a simple inject of css that you can add to your extensions in chrome that allows you to add a custom image and increases the font on the game stats and game log
 
 ### Setup
 
