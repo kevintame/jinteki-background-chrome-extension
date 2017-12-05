@@ -1,4 +1,8 @@
-### Jinteki.net change background image
+# Jinteki.net extention for changing the background image and increasing the font.
+
+This is a simple inject of css that you can add to your extensions in chrome
+
+### Setup
 
 - In the styles.css file change the background image link to whatever you would like 
 - Open chrome and go to the extensions page under more tools 
