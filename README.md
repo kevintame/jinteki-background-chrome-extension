@@ -1,4 +1,4 @@
-###Jinteki.net change background image
+### Jinteki.net change background image
 
 - In the styles.css file change the background image link to whatever you would like 
 - Open chrome and go to the extensions page under more tools 
