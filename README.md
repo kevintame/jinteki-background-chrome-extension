@@ -2,7 +2,7 @@
 
 This is a simple inject of css that you can add to your extensions in chrome that allows you to add a custom image and increases the font on the game stats and game log
 
-### Setup
+## Setup
 
 - In the styles.css file change the background image link to whatever you would like 
 - Open chrome and go to the extensions page under more tools 
