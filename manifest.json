@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Jnet Background Script",
+  "name": "jinteki Chrome Extension",
   "version": "0.1.0",
-  "description": "Add Background on Monochrome BG",
+  "description": "This adds a custom background image and increases the font of log and left panel",
 
   "content_scripts": [{
     "css": ["styles.css"],

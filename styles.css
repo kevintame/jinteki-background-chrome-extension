@@ -1,7 +1,12 @@
+
+/*Background image inject*/
 .lobby-bg { 
 	background-image: url("https://s3.amazonaws.com/thehacktivist.kevintame.com/img/JnetBackground.png")!important;
 	opacity: 1.0 !important;
 }
+
+/*Remove this is you don't wnat to adjust the font size*/
+
 .gameboard .stats > div {
     font-size: 16px !important;
 }
